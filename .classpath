@@ -23,6 +23,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/M1038543/Downloads/hsqldb-2.4.0/hsqldb/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/M1038543/Downloads/some-jdbc-drivers (1)/some-jdbc-drivers/mysql-connector-java-5.1.33.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
